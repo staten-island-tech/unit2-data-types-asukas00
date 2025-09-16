@@ -28,7 +28,7 @@ else:
     print("she's kinda lame")
 else:
     print("she's still kinda lame but not in this class") """
-found = False
+""" found = False
 for student in students:
 
     if student == "Mia":
@@ -37,3 +37,7 @@ for student in students:
         print("Mia not here")
 name = "Andy"
 print(len(name))
+ """
+
+""" print(4 % 2) """
+

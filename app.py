@@ -37,8 +37,27 @@ else:
     print("Cold")
 #Printed Warm because the temp was above 68 """
 
-def check_odd_even():
-    if input  % 2 == 
+""" def check_odd_even(x):
+    if x % 2 == 0:
         print("Even")
     else:
-        print(odd)
+        print("odd")
+
+values = [1,2,3,4,5,6,7,8,9,10]
+print(values) 
+for i in values:
+    print(i, check_odd_even(i)) """
+
+
+""" bill = input("How was the service")
+if bill == ("bad"):
+    print("0%")
+elif bill == ("okay"):
+    print("15%")
+elif bill == ("good"):
+    print("20%")
+elif bill == ("great"):
+    print("25%") """
+def find_factor():
+    input=("type in a number")
+find_factor()
