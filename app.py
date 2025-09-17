@@ -57,7 +57,8 @@ elif bill == ("okay"):
 elif bill == ("good"):
     print("20%")
 elif bill == ("great"):
-    print("25%") """
-def find_factor():
-    input=("type in a number")
-find_factor()
+    print("25%"""
+
+def factors(x):
+    for y in range(1 + x+1):
+        if 

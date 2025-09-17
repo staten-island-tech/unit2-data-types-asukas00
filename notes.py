@@ -41,3 +41,25 @@ print(len(name))
 
 """ print(4 % 2) """
 
+""" money = True
+friend = True
+
+def movie():
+    if money and friend:
+        print("movies")
+movie() """
+
+""" hw = True
+
+def movies():
+    if not hw:
+        print("Movie time")
+    else: 
+        print("Russian hw bro")
+movies() """
+
+def factors(x):
+    for y in range(1,x+1):
+        if x % y == 0:
+            print(f"{y} is a factor of {x}")
+factors(10000)
