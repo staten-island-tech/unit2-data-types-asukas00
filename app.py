@@ -71,5 +71,5 @@ def gcf(x,y):
     for a in range(1,x+1):
         if x % a == 0 and y % a == 0:
             common_factors.append(a)
-gcf(2480 , 422)
+gcf(100 , 100)
 print(max(common_factors))
